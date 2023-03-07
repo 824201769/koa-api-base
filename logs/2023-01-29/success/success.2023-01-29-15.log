@@ -1,0 +1,36 @@
+[2023-01-29T15:51:22.175] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api/userList
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 1
+返回状态码: 401
+返回数据: 
+undefined
+*************** response log end ***************
+
+[2023-01-29T15:51:51.862] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api/userList
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 16
+返回状态码: 200
+返回数据: 
+{"count":0,"rows":[]}
+*************** response log end ***************
+
+[2023-01-29T15:54:23.381] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api/userList
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 29
+返回状态码: 200
+返回数据: 
+{"count":0,"rows":[]}
+*************** response log end ***************
+

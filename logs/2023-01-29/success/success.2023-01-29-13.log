@@ -1,0 +1,12 @@
+[2023-01-29T13:47:40.032] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api/userList
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 16
+返回状态码: 200
+返回数据: 
+{"count":0,"rows":[]}
+*************** response log end ***************
+

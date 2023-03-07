@@ -1,0 +1,21 @@
+[2023-01-29T11:26:08.961] [ERROR] errorLog - 
+*************** error log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 53
+错误名称: SequelizeDatabaseError
+错误详情: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15' at line 1
+错误Stack: Error
+    at Query.run (/Users/Marmot/project/Marmot/koa-api/node_modules/sequelize/src/dialects/mysql/query.js:46:25)
+    at /Users/Marmot/project/Marmot/koa-api/node_modules/sequelize/src/sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async MySQLQueryInterface.select (/Users/Marmot/project/Marmot/koa-api/node_modules/sequelize/src/dialects/abstract/query-interface.js:1001:12)
+    at async Function.findAll (/Users/Marmot/project/Marmot/koa-api/node_modules/sequelize/src/model.js:1816:21)
+    at async Promise.all (index 1)
+    at async Function.findAndCountAll (/Users/Marmot/project/Marmot/koa-api/node_modules/sequelize/src/model.js:2158:27)
+    at async /Users/Marmot/project/Marmot/koa-api/app/router/api/UserRouter.ts:8:16
+    at async /Users/Marmot/project/Marmot/koa-api/app/index.ts:15:5
+*************** error log end ***************
+

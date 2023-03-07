@@ -1,0 +1,96 @@
+[2023-01-29T10:13:32.418] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 42
+返回状态码: 204
+返回数据: 
+null
+*************** response log end ***************
+
+[2023-01-29T10:16:46.644] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 29
+返回状态码: 204
+返回数据: 
+null
+*************** response log end ***************
+
+[2023-01-29T10:17:02.431] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 5
+返回状态码: 204
+返回数据: 
+null
+*************** response log end ***************
+
+[2023-01-29T10:18:53.112] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 1
+返回状态码: 401
+返回数据: 
+undefined
+*************** response log end ***************
+
+[2023-01-29T10:22:02.032] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 29
+返回状态码: 204
+返回数据: 
+null
+*************** response log end ***************
+
+[2023-01-29T10:22:26.506] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 1
+返回状态码: 401
+返回数据: 
+undefined
+*************** response log end ***************
+
+[2023-01-29T10:37:28.803] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 2
+返回状态码: 401
+返回数据: 
+undefined
+*************** response log end ***************
+
+[2023-01-29T10:37:55.749] [INFO] successLog - 
+*************** response log start ***************
+请求方式: GET
+请求URL:  /api
+请求IP:  127.0.0.1
+请求参数Query:  {}
+响应: 8
+返回状态码: 401
+返回数据: 
+undefined
+*************** response log end ***************
+
